@@ -13,3 +13,10 @@ Please refer to the provided document for the code challenge requirements.
 - Moved logic of determining status to backend
 - Make a single API call to fetch all status together
 - Use json array instead of object map as the API response
+
+# todo
+
+- Visuals can be enhanced
+  - color coded status
+  - based on previous reading, show increase or decrease sign for temperature for product
+- We can have short history(last 5 or 10 readings) of temperatures for each productId 
