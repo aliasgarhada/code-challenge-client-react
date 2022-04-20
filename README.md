@@ -7,7 +7,7 @@ Please refer to the provided document for the code challenge requirements.
 - `npm start` - Start the application (Port 3000)
 
 
-## changeLog
+## changelog
 
 - Removed product catalog from frontend
 - Moved logic of determining status to backend
