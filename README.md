@@ -14,7 +14,7 @@ Please refer to the provided document for the code challenge requirements.
 - Make a single API call to fetch all status together
 - Use json array instead of object map as the API response
 
-# todo
+## todo
 
 - Visuals can be enhanced
   - color coded status
